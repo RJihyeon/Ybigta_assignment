@@ -1,0 +1,79 @@
+[2024-03-29T01:50:21.807+0000] {processor.py:157} INFO - Started process (PID=36) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:50:21.815+0000] {processor.py:829} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-29T01:50:21.830+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:50:21.829+0000] {dagbag.py:539} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:50:22.640+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:50:23.914+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:50:23.913+0000] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:example_dag_decorator' as access control is unset.
+[2024-03-29T01:50:23.915+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:50:23.915+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-03-29T01:50:23.935+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:50:23.935+0000] {dag.py:3696} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-29T01:50:23.978+0000] {processor.py:179} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 2.186 seconds
+[2024-03-29T01:50:54.072+0000] {processor.py:157} INFO - Started process (PID=90) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:50:54.074+0000] {processor.py:829} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-29T01:50:54.078+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:50:54.077+0000] {dagbag.py:539} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:50:54.231+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:50:54.324+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:50:54.324+0000] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:example_dag_decorator' as access control is unset.
+[2024-03-29T01:50:54.325+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:50:54.325+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-03-29T01:50:54.335+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:50:54.335+0000] {dag.py:3696} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-29T01:50:54.362+0000] {processor.py:179} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.293 seconds
+[2024-03-29T01:51:24.575+0000] {processor.py:157} INFO - Started process (PID=144) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:51:24.577+0000] {processor.py:829} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-29T01:51:24.580+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:51:24.580+0000] {dagbag.py:539} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:51:24.673+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:51:24.686+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:51:24.685+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-03-29T01:51:24.699+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:51:24.699+0000] {dag.py:3696} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-29T01:51:24.719+0000] {processor.py:179} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.148 seconds
+[2024-03-29T01:51:54.817+0000] {processor.py:157} INFO - Started process (PID=199) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:51:54.819+0000] {processor.py:829} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-29T01:51:54.822+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:51:54.822+0000] {dagbag.py:539} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:51:54.894+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:51:55.057+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:51:55.057+0000] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:example_dag_decorator' as access control is unset.
+[2024-03-29T01:51:55.059+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:51:55.058+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-03-29T01:51:55.070+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:51:55.070+0000] {dag.py:3696} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-29T01:51:55.096+0000] {processor.py:179} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.282 seconds
+[2024-03-29T01:52:25.210+0000] {processor.py:157} INFO - Started process (PID=253) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:52:25.211+0000] {processor.py:829} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-29T01:52:25.214+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:52:25.214+0000] {dagbag.py:539} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:52:25.286+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:52:25.389+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:52:25.389+0000] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:example_dag_decorator' as access control is unset.
+[2024-03-29T01:52:25.390+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:52:25.390+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-03-29T01:52:25.402+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:52:25.401+0000] {dag.py:3696} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-29T01:52:25.422+0000] {processor.py:179} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.215 seconds
+[2024-03-29T01:52:55.638+0000] {processor.py:157} INFO - Started process (PID=307) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:52:55.639+0000] {processor.py:829} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-29T01:52:55.642+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:52:55.642+0000] {dagbag.py:539} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:52:55.723+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:52:55.833+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:52:55.832+0000] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:example_dag_decorator' as access control is unset.
+[2024-03-29T01:52:55.833+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:52:55.833+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-03-29T01:52:55.842+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:52:55.842+0000] {dag.py:3696} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-29T01:52:55.876+0000] {processor.py:179} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.241 seconds
+[2024-03-29T01:53:25.981+0000] {processor.py:157} INFO - Started process (PID=361) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:53:25.982+0000] {processor.py:829} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-29T01:53:25.985+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:53:25.985+0000] {dagbag.py:539} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:53:26.056+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:53:26.173+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:53:26.173+0000] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:example_dag_decorator' as access control is unset.
+[2024-03-29T01:53:26.174+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:53:26.173+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-03-29T01:53:26.187+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:53:26.187+0000] {dag.py:3696} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-29T01:53:26.209+0000] {processor.py:179} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.233 seconds
+[2024-03-29T01:53:56.280+0000] {processor.py:157} INFO - Started process (PID=420) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:53:56.282+0000] {processor.py:829} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-29T01:53:56.285+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:53:56.284+0000] {dagbag.py:539} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:53:56.366+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:53:56.487+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:53:56.487+0000] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:example_dag_decorator' as access control is unset.
+[2024-03-29T01:53:56.488+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:53:56.488+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-03-29T01:53:56.498+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:53:56.498+0000] {dag.py:3696} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-29T01:53:56.528+0000] {processor.py:179} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.251 seconds
+[2024-03-29T01:54:27.311+0000] {processor.py:157} INFO - Started process (PID=474) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:54:27.313+0000] {processor.py:829} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-29T01:54:27.316+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:54:27.316+0000] {dagbag.py:539} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:54:27.413+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:54:27.557+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:54:27.557+0000] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:example_dag_decorator' as access control is unset.
+[2024-03-29T01:54:27.558+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:54:27.558+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-03-29T01:54:27.579+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:54:27.579+0000] {dag.py:3696} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-29T01:54:27.622+0000] {processor.py:179} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.316 seconds
+[2024-03-29T01:54:57.869+0000] {processor.py:157} INFO - Started process (PID=528) to work on /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:54:57.871+0000] {processor.py:829} INFO - Processing file /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-29T01:54:57.873+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:54:57.873+0000] {dagbag.py:539} INFO - Filling up the DagBag from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:54:57.946+0000] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-29T01:54:58.056+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:54:58.056+0000] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:example_dag_decorator' as access control is unset.
+[2024-03-29T01:54:58.057+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:54:58.057+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-03-29T01:54:58.068+0000] {logging_mixin.py:151} INFO - [2024-03-29T01:54:58.068+0000] {dag.py:3696} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-29T01:54:58.098+0000] {processor.py:179} INFO - Processing /home/airflow/.local/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.232 seconds
